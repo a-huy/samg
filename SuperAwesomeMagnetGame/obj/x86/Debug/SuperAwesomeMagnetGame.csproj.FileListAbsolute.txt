@@ -1,0 +1,94 @@
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.exe
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.pdb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.exe
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.pdb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\MagnaBoyWalkingSheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\white-square-16x16.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\red-square-16x16.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\MagnaBoyHand.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\NegativeMagnet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\PositiveMagnet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.exe.manifest
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.application
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.exe.manifest
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.application
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BlueEnemy.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\RedEnemy.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BlueEnemyAttack.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\RedEnemyAttack.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\HitSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\KillSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ShootSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\Block.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\EndScreen.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\StartScreen.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ReflectSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\tutorialscreen.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\LifePowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\WinScreen.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\Background  Music.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\Background  Music.wma
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BombPowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ClearSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\SlowPowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\CrossPowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\CrossSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\PowerupSpawn.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\NoBlockPowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\NoBlockSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\LifeUpSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\SlowSound.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\CreditsScreen.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\AddBlockPowerup.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\AddBlockSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.exe
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\MagnaBoyWalkingSheet.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\white-square-16x16.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\red-square-16x16.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\MagnaBoyHand.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\NegativeMagnet.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\PositiveMagnet.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\RedEnemy.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BlueEnemy.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BlueEnemyAttack.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\RedEnemyAttack.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\Block.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\EndScreen.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\StartScreen.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\LifePowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\WinScreen.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\tutorialscreen.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\BombPowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\SlowPowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\CrossPowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\NoBlockPowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\CreditsScreen.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Images\AddBlockPowerup.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\HitSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\KillSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ShootSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ReflectSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\ClearSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\CrossSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\PowerupSpawn.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\NoBlockSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\LifeUpSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\SlowSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\AddBlockSound.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\Background  Music.xnb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\Content\Audio\Background  Music.wma
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.exe.manifest
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.application
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.exe
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\bin\x86\Debug\SuperAwesomeMagnetGame.pdb
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.exe.manifest
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.application
+C:\Users\Andy\Desktop\SuperAwesomeMagnetGame\SuperAwesomeMagnetGame\obj\x86\Debug\SuperAwesomeMagnetGame.pdb

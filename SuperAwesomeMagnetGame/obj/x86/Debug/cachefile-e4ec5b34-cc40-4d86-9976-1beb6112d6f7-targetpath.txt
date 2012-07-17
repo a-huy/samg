@@ -1,0 +1,37 @@
+Content\Images\MagnaBoyWalkingSheet.xnb
+Content\Images\white-square-16x16.xnb
+Content\Images\red-square-16x16.xnb
+Content\Images\MagnaBoyHand.xnb
+Content\Images\NegativeMagnet.xnb
+Content\Images\PositiveMagnet.xnb
+Content\Images\Background.xnb
+Content\Images\RedEnemy.xnb
+Content\Images\BlueEnemy.xnb
+Content\Images\BlueEnemyAttack.xnb
+Content\Images\RedEnemyAttack.xnb
+Content\Images\Block.xnb
+Content\Images\EndScreen.xnb
+Content\Images\StartScreen.xnb
+Content\Images\LifePowerup.xnb
+Content\Images\WinScreen.xnb
+Content\Images\tutorialscreen.xnb
+Content\Images\BombPowerup.xnb
+Content\Images\SlowPowerup.xnb
+Content\Images\CrossPowerup.xnb
+Content\Images\NoBlockPowerup.xnb
+Content\Images\CreditsScreen.xnb
+Content\Images\AddBlockPowerup.xnb
+Content\Fonts\Arial.xnb
+Content\Audio\HitSound.xnb
+Content\Audio\KillSound.xnb
+Content\Audio\ShootSound.xnb
+Content\Audio\ReflectSound.xnb
+Content\Audio\ClearSound.xnb
+Content\Audio\CrossSound.xnb
+Content\Audio\PowerupSpawn.xnb
+Content\Audio\NoBlockSound.xnb
+Content\Audio\LifeUpSound.xnb
+Content\Audio\SlowSound.xnb
+Content\Audio\AddBlockSound.xnb
+Content\Audio\Background  Music.xnb
+Content\Audio\Background  Music.wma
